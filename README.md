@@ -2,7 +2,7 @@
 
 Overview
 
-I have been a huge video game fan for a long time, infact the first game I ever played was Duck Hunt and Super Mario Bros. on the Nintendo Entertainment System. I have also been a PlayStation fan since the original PlayStation 1.
+I have been a huge video game fan for a long time, infact the first game I ever played was Duck Hunt and Super Mario Bros. on the Nintendo Entertainment System. I have also been a PlayStation fan since the original PlayStation was released.
 
 The question that I had on my mind was what company sold the most amount of software and hardware.
 My original guess was that Nintendo had the most sales as I remember the Wii being incredibly popular and dominating in sales at the time.
