@@ -29,4 +29,4 @@ ____
 Conclusion
 
 My original hypothesis was that Nintendo lead the world in software and hardware sales, but the data proved me wrong.
-What I discovered through my analysis was that while Nintendo domianted software sales, Sony was actually in the lead for hardware sales.
+What I discovered through my analysis was that while Nintendo domianted software sales, Sony was actually in the lead for hardware sales. 
